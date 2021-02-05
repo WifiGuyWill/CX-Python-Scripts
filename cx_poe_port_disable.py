@@ -8,7 +8,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 username = 'username'
 password = 'password'
-baseurl = 'https://<CX Switch IP or Hostname>//rest/v1/'
+baseurl = 'https://<CX Switch IP or Hostname>/rest/v1/'
 poe_data = "{\n  \"config\": {\n    \"admin_disable\": true\n  }\n}"
 port1 = 'system/interfaces/<Port # in this formate 1%2F1%2F14>/poe_interface'
 #port2 = 'system/interfaces/1%2F1%2F33/poe_interface'
