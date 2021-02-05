@@ -1,0 +1,4 @@
+requests
+json
+requests.packages.urllib3.exceptions 
+requests.packages.urllib3.disable_warnings
