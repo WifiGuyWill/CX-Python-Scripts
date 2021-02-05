@@ -4,7 +4,7 @@
 Used to automate functions within Aruba CX :+1:
 
 Be sure to modify:
-* *(username, password, baseurl, switch# and port#)* *
+* *(username, password, baseurl, switch# and port#)*
 
 Install the required modules:
-* *'pip install -r requirements.txt'* *
+* *'pip install -r requirements.txt'*
