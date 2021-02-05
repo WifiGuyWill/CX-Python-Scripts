@@ -1,5 +1,5 @@
 # CX-Python-Scripts
-Collection of Python scripts leveraging the Aruba CX OS.
+**Collection of Python scripts leveraging the Aruba CX OS :+1:
 
 Several scripts used to automate functions within Aruba CX.
 
